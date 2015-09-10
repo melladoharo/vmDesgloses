@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>resources/icono_Impresora.png</file>
+        <file>resources/icono_Cliente.png</file>
+        <file>resources/icono_Vanessmark.png</file>
+        <file>resources/icono_Buscar.png</file>
+        <file>resources/icono_Nuevo.png</file>
+    </qresource>
+</RCC>
